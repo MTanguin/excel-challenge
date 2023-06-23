@@ -40,7 +40,7 @@ To receive funding, the project must meet or exceed an initial goal, so many org
 
   *What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
 
-#### Crowfunding Goal Analysis
+# Crowfunding Goal Analysis
 - Create a new sheet with 8 columns:
 
 Goal
@@ -74,7 +74,7 @@ Greater than or equal to 50000
 
 - Create a line chart that graphs the relationship between a goal amount and its chances of success, failure, or cancellation.
 
-#### Statistical Analysis
+# Statistical Analysis
 Most people would use the number of campaign backers to assess the success of a crowdfunding campaign. Creating a summary statistics table is one of the most efficient ways that data scientists can characterize quantitative metrics, such as the number of campaign backers.
 
 For gaining an in-depth understanding of campaign backers, evaluate the number of backers of successful and unsuccessful campaigns by creating your own summary statistics table.
