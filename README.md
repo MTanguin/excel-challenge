@@ -6,6 +6,9 @@ Crowdfunding platforms like Kickstarter and Indiegogo have been growing in succe
 To receive funding, the project must meet or exceed an initial goal, so many organizations dedicate considerable resources looking through old projects in an attempt to discover “the trick” to finding success. For this week's Challenge, you will organize and analyze a database of 1,000 sample projects to uncover any hidden trends.
 
 # Methods
+
+![outcome](https://github.com/MTanguin/excel-challenge/assets/114210481/63cd4b76-e5b1-4a41-af1c-33e860b9bed9)
+
 - Use conditional formatting to fill each cell in the outcome column with a different color, depending on whether the associated campaign was successful, failed, canceled, or is currently live.
   *Create a new column called Percent Funded that uses a formula to find how much money a campaign made relative to its initial funding goal.
 
@@ -14,9 +17,15 @@ To receive funding, the project must meet or exceed an initial goal, so many org
 
   *Create two new columns, one called Parent Category and another called Sub-Category, that use formulas to split the Category and Sub-Category column into the two new,     separate columns.
 
+![outcome2parentcategory](https://github.com/MTanguin/excel-challenge/assets/114210481/5c3009e0-2ec5-48c5-b4c9-d8bf642abfcc)
+
+
   *Create a new sheet with a pivot table that analyzes your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per category.
 
 - Create a stacked-column pivot chart that can be filtered by country based on the table that you created.
+
+![outcome3subcategory](https://github.com/MTanguin/excel-challenge/assets/114210481/81b3950f-68e0-40ea-a1a1-07cf9b42a47e)
+
   
 - Create a new sheet with a pivot table that analyzes your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per sub-category.
 
@@ -27,6 +36,9 @@ To receive funding, the project must meet or exceed an initial goal, so many org
   *Create a new column named Date Created Conversion that will use this formulaLinks to an external site. to convert the data contained in launched_at into Excel's date format.
 
   *Create a new column named Date Ended Conversion that will use this formulaLinks to an external site. to convert the data contained in deadline into Excel's date format.
+
+![outcome5launchmonth](https://github.com/MTanguin/excel-challenge/assets/114210481/a654f6f6-dfd0-49c8-b2f2-29b5bd60d03b)
+
 
   *Create a new sheet with a pivot table that has a column of outcome, rows of Date Created Conversion, values based on the count of outcome, and filters based on parent category and Years.
 
@@ -66,6 +78,8 @@ Less than 1000
 40000 to 44999
 45000 to 49999
 Greater than or equal to 50000
+
+![Bonus](https://github.com/MTanguin/excel-challenge/assets/114210481/e8a8c9c0-5b75-41e0-a175-8a5ffaf5f947)
 
 
 - Using the COUNTIFS() formula, count how many successful, failed, and canceled projects were created with goals within the ranges listed above. Populate the Number Successful, Number Failed, and Number Canceled columns with these data points.
