@@ -102,7 +102,7 @@ The standard deviation of the number of backers
 -	the outcome with respect to launched date (years) shows that in years 2017,2018 & 2019 the crowdfunding campaigns success rate was going up then declined around year 2020 when the pandemic began. The total number of crowdfunding campaigns has also declined drastically in year 2020.
 3.	Crowdfunding campaigns was directly affected by the pandemic & recessions, as pandemic is the major contributor to the cause of recessions and global lockdown that affected the economic status of the world.
 
-# Limitations:
+# Limitations
 -	Sampling error possible – methods of collecting the samples are not clarified or presented
 -	Limited sources of data
 
