@@ -40,7 +40,7 @@ To receive funding, the project must meet or exceed an initial goal, so many org
 
   *What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
 
-# Crowfunding Goal Analysis
+#### Crowfunding Goal Analysis
 - Create a new sheet with 8 columns:
 
 Goal
@@ -74,7 +74,7 @@ Greater than or equal to 50000
 
 - Create a line chart that graphs the relationship between a goal amount and its chances of success, failure, or cancellation.
 
-# Statistical Analysis
+#### Statistical Analysis
 Most people would use the number of campaign backers to assess the success of a crowdfunding campaign. Creating a summary statistics table is one of the most efficient ways that data scientists can characterize quantitative metrics, such as the number of campaign backers.
 
 For gaining an in-depth understanding of campaign backers, evaluate the number of backers of successful and unsuccessful campaigns by creating your own summary statistics table.
@@ -93,6 +93,27 @@ The standard deviation of the number of backers
 
 - Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 
+# Conclusions
+
+1.	Overall, the success rate of crowdfunding campaign based on the outcome by percentage is 56.5. 
+2.	As shown on the data sets:
+•	the outcome with respect to parent category shows that the highest number of donations are pledged to theater.
+•	the outcome with respect to sub-category shows that the highest number of donations are pledged to plays
+•	the outcome with respect to launched date (years) shows that in years 2017,2018 & 2019 the crowdfunding campaigns success rate was going up then declined around year 2020 when the pandemic began. The total number of crowdfunding campaigns has also declined drastically in year 2020.
+3.	Crowdfunding campaigns was directly affected by the pandemic & recessions, as pandemic is the major contributor to the cause of recessions and global lockdown that affected the economic status of the world.
+
+Limitations:
+•	Sampling error possible – methods of collecting the samples are not clarified or presented
+•	Limited sources of data
+
+Other possible tables and/or graphs:
+
+•	Scatter with smooth line and markers as shown in Years_SuccessRate spreadsheet, Fig. A
+-	Where all the lines projects downward to the lowest point of the chart in year 2020.
+•	Line graph as shown in Years_SuccessRate spread sheet, Fig. B
+-	Where the success rate and the total number of crowdfunding campaigns showed a significant decline in year 2020.
+•	Clustered Column shown in ParentCategory_Country spreadsheet
+-	Where the chart shows what countries have contributed/pledged the donations with respect to Parent Category. It showed that US earned the highest spot in most categories.
 
 
 
