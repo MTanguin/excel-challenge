@@ -9,42 +9,42 @@ To receive funding, the project must meet or exceed an initial goal, so many org
 
 ![outcome](https://github.com/MTanguin/excel-challenge/assets/114210481/63cd4b76-e5b1-4a41-af1c-33e860b9bed9)
 
-- Use conditional formatting to fill each cell in the outcome column with a different color, depending on whether the associated campaign was successful, failed, canceled, or is currently live.
+- Used conditional formatting to fill each cell in the outcome column with a different color, depending on whether the associated campaign was successful, failed, canceled, or is currently live.
   *Create a new column called Percent Funded that uses a formula to find how much money a campaign made relative to its initial funding goal.
 
-- Use conditional formatting to fill each cell in the Percent Funded column according to a three-color scale. The scale should start at 0 with a dark shade of red, and it should transition to green at 100 and blue at 200.
-  *Create a new column called Average Donation that uses a formula to find how much each project backer paid on average.
+- Used conditional formatting to fill each cell in the Percent Funded column according to a three-color scale. The scale should start at 0 with a dark shade of red, and it should transition to green at 100 and blue at 200.
+  *Created a new column called Average Donation that uses a formula to find how much each project backer paid on average.
 
-  *Create two new columns, one called Parent Category and another called Sub-Category, that use formulas to split the Category and Sub-Category column into the two new,     separate columns.
+  *Created two new columns, one called Parent Category and another called Sub-Category, that use formulas to split the Category and Sub-Category column into the two new,     separate columns.
 
 ![outcome2parentcategory](https://github.com/MTanguin/excel-challenge/assets/114210481/5c3009e0-2ec5-48c5-b4c9-d8bf642abfcc)
 
 
-  *Create a new sheet with a pivot table that analyzes your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per category.
+  *Created a new sheet with a pivot table that analyzes your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per category.
 
-- Create a stacked-column pivot chart that can be filtered by country based on the table that you created.
+- Created a stacked-column pivot chart that can be filtered by country based on the table that you created.
 
 ![outcome3subcategory](https://github.com/MTanguin/excel-challenge/assets/114210481/81b3950f-68e0-40ea-a1a1-07cf9b42a47e)
 
   
-- Create a new sheet with a pivot table that analyzes your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per sub-category.
+- Created a new sheet with a pivot table that analyzes your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per sub-category.
 
-- Create a stacked-column pivot chart that can be filtered by country and parent category based on the table that you created.
+- Created a stacked-column pivot chart that can be filtered by country and parent category based on the table that you created.
 
 - The dates in the deadline and launched_at columns use Unix timestamps. Fortunately for us, this formulaLinks to an external site. that can be used to convert these timestamps to a normal date.
 
-  *Create a new column named Date Created Conversion that will use this formulaLinks to an external site. to convert the data contained in launched_at into Excel's date format.
+  *Created a new column named Date Created Conversion that will use this formulaLinks to an external site. to convert the data contained in launched_at into Excel's date format.
 
-  *Create a new column named Date Ended Conversion that will use this formulaLinks to an external site. to convert the data contained in deadline into Excel's date format.
+  *Created a new column named Date Ended Conversion that will use this formulaLinks to an external site. to convert the data contained in deadline into Excel's date format.
 
 ![outcome5launchmonth](https://github.com/MTanguin/excel-challenge/assets/114210481/a654f6f6-dfd0-49c8-b2f2-29b5bd60d03b)
 
 
-  *Create a new sheet with a pivot table that has a column of outcome, rows of Date Created Conversion, values based on the count of outcome, and filters based on parent category and Years.
+  *Created a new sheet with a pivot table that has a column of outcome, rows of Date Created Conversion, values based on the count of outcome, and filters based on parent category and Years.
 
-  *Now, create a pivot-chart line graph that visualizes this new table.
+  *Created a pivot-chart line graph that visualizes this new table.
 
-- Create a report in Microsoft Word, and answer the following questions:
+- Created a report in Microsoft Word, and answer the following questions:
 
   *Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
 
@@ -52,7 +52,7 @@ To receive funding, the project must meet or exceed an initial goal, so many org
 
   *What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
 
-#### Crowfunding Goal Analysis
+# Crowfunding Goal Analysis
 - Create a new sheet with 8 columns:
 
 Goal
@@ -88,7 +88,7 @@ Greater than or equal to 50000
 
 - Create a line chart that graphs the relationship between a goal amount and its chances of success, failure, or cancellation.
 
-#### Statistical Analysis
+# Statistical Analysis
 Most people would use the number of campaign backers to assess the success of a crowdfunding campaign. Creating a summary statistics table is one of the most efficient ways that data scientists can characterize quantitative metrics, such as the number of campaign backers.
 
 For gaining an in-depth understanding of campaign backers, evaluate the number of backers of successful and unsuccessful campaigns by creating your own summary statistics table.
@@ -98,7 +98,7 @@ For gaining an in-depth understanding of campaign backers, evaluate the number o
 ![backerscountoutcome](https://github.com/MTanguin/excel-challenge/assets/114210481/4f12c20f-120e-4017-be14-db679ccce22a)
 
   
-- Use Excel to evaluate the following values for successful campaigns, and then do the same for unsuccessful campaigns:
+- Used Excel to evaluate the following values for successful campaigns, and then do the same for unsuccessful campaigns:
 
 The mean number of backers
 The median number of backers
@@ -107,9 +107,9 @@ The maximum number of backers
 The variance of the number of backers
 The standard deviation of the number of backers
 
-- Use your data to determine whether the mean or the median better summarizes the data.
+- Used your data to determine whether the mean or the median better summarizes the data.
 
-- Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
+- Used your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 
 # Conclusions
 
@@ -133,24 +133,6 @@ Other possible tables and/or graphs:
 -	Where the success rate and the total number of crowdfunding campaigns showed a significant decline in year 2020.
 -	Clustered Column shown in ParentCategory_Country spreadsheet
 -	Where the chart shows what countries have contributed/pledged the donations with respect to Parent Category. It showed that US earned the highest spot in most categories.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Source:
 https://courses.bootcampspot.com/courses/2799/assignments/42864?module_item_id=802611
