@@ -1,5 +1,5 @@
 #### "Analyzing 1,000 sample projects to uncover hidden trends and insights for achieving funding goals."
-Using Excel functions/Graphs/Tables/Statistical Tools &amp; Formulas
+Using Excel functions|Graphs|Pivot Tables |Statistical Tools
 
 # Background
 Crowdfunding platforms like Kickstarter and Indiegogo have been growing in success and popularity since the late 2000s. From independent content creators to famous celebrities, more and more people are using crowdfunding to launch new products and generate buzz, but not every project has found success.
