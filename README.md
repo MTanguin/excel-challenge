@@ -53,31 +53,31 @@ To receive funding, the project must meet or exceed an initial goal, so many org
   *What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
 
 # Crowfunding Goal Analysis
-- Create a new sheet with 8 columns:
+- Created a new sheet with 8 columns:
 
 Goal
-Number Successful
-Number Failed
-Number Canceled
-Total Projects
-Percentage Successful
-Percentage Failed
-Percentage Canceled
+○ Number Successful
+○ Number Failed
+○ Number Canceled
+○ Total Projects
+○ Percentage Successful
+○ Percentage Failed
+○ Percentage Canceled
 
 - In the Goal column, create 12 rows with the following headers:
 
-Less than 1000
-1000 to 4999
-5000 to 9999
-10000 to 14999
-15000 to 19999
-20000 to 24999
-25000 to 29999
-30000 to 34999
-35000 to 39999
-40000 to 44999
-45000 to 49999
-Greater than or equal to 50000
+○ Less than 1000
+○ 1000 to 4999
+○ 5000 to 9999
+○ 10000 to 14999
+○ 15000 to 19999
+○ 20000 to 24999
+○ 25000 to 29999
+○ 30000 to 34999
+○ 35000 to 39999
+○ 40000 to 44999
+○ 45000 to 49999
+○ Greater than or equal to 50000
 
 ![Bonus](https://github.com/MTanguin/excel-challenge/assets/114210481/e8a8c9c0-5b75-41e0-a175-8a5ffaf5f947)
 
@@ -100,16 +100,16 @@ For gaining an in-depth understanding of campaign backers, evaluate the number o
   
 - Used Excel to evaluate the following values for successful campaigns, and then do the same for unsuccessful campaigns:
 
-The mean number of backers
-The median number of backers
-The minimum number of backers
-The maximum number of backers
-The variance of the number of backers
-The standard deviation of the number of backers
+○ The mean number of backers
+○ The median number of backers
+○ The minimum number of backers
+○ The maximum number of backers
+○ The variance of the number of backers
+○ The standard deviation of the number of backers
 
-- Used your data to determine whether the mean or the median better summarizes the data.
+- Used the data to determine whether the mean or the median better summarizes the data.
 
-- Used your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
+- Used the data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 
 # Conclusions
 
