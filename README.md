@@ -84,16 +84,16 @@ Greater than or equal to 50000
 
 - Using the COUNTIFS() formula, count how many successful, failed, and canceled projects were created with goals within the ranges listed above. Populate the Number Successful, Number Failed, and Number Canceled columns with these data points.
 
-- Add up each of the values in the Number Successful, Number Failed, and Number Canceled columns to populate the Total Projects column. Then, using a mathematical formula, find the percentage of projects that were successful, failed, or canceled per goal range.
+- Added up each of the values in the Number Successful, Number Failed, and Number Canceled columns to populate the Total Projects column. Then, using a mathematical formula, find the percentage of projects that were successful, failed, or canceled per goal range.
 
-- Create a line chart that graphs the relationship between a goal amount and its chances of success, failure, or cancellation.
+- Created a line chart that graphs the relationship between a goal amount and its chances of success, failure, or cancellation.
 
 # Statistical Analysis
 Most people would use the number of campaign backers to assess the success of a crowdfunding campaign. Creating a summary statistics table is one of the most efficient ways that data scientists can characterize quantitative metrics, such as the number of campaign backers.
 
 For gaining an in-depth understanding of campaign backers, evaluate the number of backers of successful and unsuccessful campaigns by creating your own summary statistics table.
 
-- Create a new worksheet in your workbook, and create one column for the number of backers of successful campaigns and one column for unsuccessful campaigns.
+- Created a new worksheet in your workbook, and create one column for the number of backers of successful campaigns and one column for unsuccessful campaigns.
 
 ![backerscountoutcome](https://github.com/MTanguin/excel-challenge/assets/114210481/4f12c20f-120e-4017-be14-db679ccce22a)
 
@@ -128,11 +128,11 @@ The standard deviation of the number of backers
 Other possible tables and/or graphs:
 
 -	Scatter with smooth line and markers as shown in Years_SuccessRate spreadsheet, Fig. A
--	Where all the lines projects downward to the lowest point of the chart in year 2020.
+-- Where all the lines projects downward to the lowest point of the chart in year 2020.
 -	Line graph as shown in Years_SuccessRate spread sheet, Fig. B
--	Where the success rate and the total number of crowdfunding campaigns showed a significant decline in year 2020.
+--	Where the success rate and the total number of crowdfunding campaigns showed a significant decline in year 2020.
 -	Clustered Column shown in ParentCategory_Country spreadsheet
--	Where the chart shows what countries have contributed/pledged the donations with respect to Parent Category. It showed that US earned the highest spot in most categories.
+--	Where the chart shows what countries have contributed/pledged the donations with respect to Parent Category. It showed that US earned the highest spot in most categories.
 
 Source:
 https://courses.bootcampspot.com/courses/2799/assignments/42864?module_item_id=802611
